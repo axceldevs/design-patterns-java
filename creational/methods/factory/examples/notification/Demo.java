@@ -8,7 +8,7 @@ import creational.methods.factory.examples.notification.util.NotificationType;
 
 public class Demo {
     public static void main(String[] args) {
-         NotificationFactory factory = configure(NotificationType.PUSH);
+        NotificationFactory factory = configure(NotificationType.PUSH);
         runBusinessLogic(factory);
     }
 
