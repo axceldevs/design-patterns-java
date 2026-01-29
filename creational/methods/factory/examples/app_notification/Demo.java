@@ -1,10 +1,10 @@
-package creational.methods.factory.examples.notification;
+package creational.methods.factory.examples.app_notification;
 
-import creational.methods.factory.examples.notification.factory.EmailNotificationFactory;
-import creational.methods.factory.examples.notification.factory.NotificationFactory;
-import creational.methods.factory.examples.notification.factory.PushNotificationFactory;
-import creational.methods.factory.examples.notification.factory.SmsNotificationFactory;
-import creational.methods.factory.examples.notification.util.NotificationType;
+import creational.methods.factory.examples.app_notification.factory.EmailNotificationFactory;
+import creational.methods.factory.examples.app_notification.factory.NotificationFactory;
+import creational.methods.factory.examples.app_notification.factory.PushNotificationFactory;
+import creational.methods.factory.examples.app_notification.factory.SmsNotificationFactory;
+import creational.methods.factory.examples.app_notification.util.NotificationType;
 
 public class Demo {
     public static void main(String[] args) {

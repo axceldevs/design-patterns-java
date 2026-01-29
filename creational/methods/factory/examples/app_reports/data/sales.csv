@@ -1,0 +1,4 @@
+saleId,date,productId,productName,quantity,unitPrice,total,seller
+SAL-001,2025-01-05,PROD-01,Camiseta básica,10,50000,500000,Juan Pérez
+SAL-002,2025-01-07,PROD-02,Pantalón jean,5,150000,750000,María Gómez
+SAL-003,2025-01-12,PROD-01,Camiseta básica,3,50000,150000,Juan Pérez

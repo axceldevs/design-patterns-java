@@ -1,0 +1,4 @@
+productId,productName,category,stockCurrent,stockMinimum,lastMovement,lastMovementDate
+PROD-01,Camiseta básica,Ropa,42,20,SALIDA,2025-01-12
+PROD-02,Pantalón jean,Ropa,18,15,SALIDA,2025-01-07
+PROD-03,Chaqueta,Ropa,8,10,ENTRADA,2025-01-10

@@ -1,4 +1,4 @@
-package creational.methods.factory.examples.notification.notification;
+package creational.methods.factory.examples.app_notification.notification;
 
 public class EmailNotification implements Notification {
 

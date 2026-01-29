@@ -1,6 +1,6 @@
-package creational.methods.factory.examples.notification.factory;
+package creational.methods.factory.examples.app_notification.factory;
 
-import creational.methods.factory.examples.notification.notification.Notification;
+import creational.methods.factory.examples.app_notification.notification.Notification;
 
 public abstract class NotificationFactory {
     

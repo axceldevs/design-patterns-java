@@ -1,0 +1,4 @@
+transactionId,date,type,concept,amount
+FIN-001,2025-01-05,INGRESO,Venta de productos,1250000
+FIN-002,2025-01-10,EGRESO,Pago a proveedor,450000
+FIN-003,2025-01-15,EGRESO,Servicios públicos,180000
